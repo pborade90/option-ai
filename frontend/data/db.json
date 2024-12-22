@@ -1,0 +1,39 @@
+{
+  "options": [
+    {
+      "id": 1,
+      "ticker": "AAPL",
+      "price": 150,
+      "prediction": "bullish",
+      "_comments": "indicates that the price of the stock or asset is expected to increase."
+    },
+    {
+      "id": 2,
+      "ticker": "GOOG",
+      "price": 2800,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 3,
+      "ticker": "MSFT",
+      "price": 300,
+      "prediction": "bullish",
+      "_comments": "indicates that the price of the stock or asset is expected to increase."
+    },
+    {
+      "id": 4,
+      "ticker": "TSLA",
+      "price": 800,
+      "prediction": "bearish",
+      "_comments": "indicates that the price of the stock or asset is expected to decrease."
+    },
+    {
+      "id": 5,
+      "ticker": "AMZN",
+      "price": 3300,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    }
+  ]
+}
