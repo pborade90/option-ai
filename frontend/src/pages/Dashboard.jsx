@@ -1,4 +1,5 @@
-import React, { useEffect, useState } from "react";
+// react imports
+import { useEffect, useState } from "react";
 
 const Dashboard = () => {
   const [options, setOptions] = useState([]);

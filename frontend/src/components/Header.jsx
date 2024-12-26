@@ -1,5 +1,7 @@
-import React from "react";
+// rrd imprts
 import { Link } from "react-router-dom";
+
+// logo
 import logoMark from "../assets/logomark.png"
 
 const Header = () => {

@@ -1,4 +1,7 @@
+// pages 
 import landingPage from "../assets/landing-page.svg";
+
+// rrd imports
 import { Link } from "react-router-dom";
 
 const LandingPage = () => {

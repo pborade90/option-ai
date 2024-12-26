@@ -1,5 +1,7 @@
-// src/pages/Signup.jsx
-import React, { useState } from "react";
+// react imports
+import { useState } from "react";
+
+// rrd imports
 import { Link, useNavigate } from "react-router-dom";
 
 const Signup = () => {
