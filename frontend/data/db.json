@@ -34,6 +34,356 @@
       "price": 3300,
       "prediction": "neutral",
       "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 6,
+      "ticker": "AMZN",
+      "price": 2711,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 7,
+      "ticker": "GOOG",
+      "price": 3412,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 8,
+      "ticker": "TSLA",
+      "price": 3296,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 9,
+      "ticker": "AAPL",
+      "price": 1465,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 10,
+      "ticker": "TSLA",
+      "price": 2177,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 11,
+      "ticker": "MSFT",
+      "price": 3459,
+      "prediction": "bullish",
+      "_comments": "indicates that the price of the stock or asset is expected to increase."
+    },
+    {
+      "id": 12,
+      "ticker": "AAPL",
+      "price": 1982,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 13,
+      "ticker": "GOOG",
+      "price": 2195,
+      "prediction": "bullish",
+      "_comments": "indicates that the price of the stock or asset is expected to increase."
+    },
+    {
+      "id": 14,
+      "ticker": "MSFT",
+      "price": 3770,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 15,
+      "ticker": "AAPL",
+      "price": 3987,
+      "prediction": "bullish",
+      "_comments": "indicates that the price of the stock or asset is expected to increase."
+    },
+    {
+      "id": 16,
+      "ticker": "AAPL",
+      "price": 3385,
+      "prediction": "bearish",
+      "_comments": "indicates that the price of the stock or asset is expected to decrease."
+    },
+    {
+      "id": 17,
+      "ticker": "GOOG",
+      "price": 3563,
+      "prediction": "bullish",
+      "_comments": "indicates that the price of the stock or asset is expected to increase."
+    },
+    {
+      "id": 18,
+      "ticker": "AMZN",
+      "price": 1496,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 19,
+      "ticker": "AMZN",
+      "price": 3353,
+      "prediction": "bullish",
+      "_comments": "indicates that the price of the stock or asset is expected to increase."
+    },
+    {
+      "id": 20,
+      "ticker": "MSFT",
+      "price": 318,
+      "prediction": "bullish",
+      "_comments": "indicates that the price of the stock or asset is expected to increase."
+    },
+    {
+      "id": 21,
+      "ticker": "AAPL",
+      "price": 3724,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 22,
+      "ticker": "MSFT",
+      "price": 3278,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 23,
+      "ticker": "AAPL",
+      "price": 2578,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 24,
+      "ticker": "AMZN",
+      "price": 2387,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 25,
+      "ticker": "AAPL",
+      "price": 2377,
+      "prediction": "bearish",
+      "_comments": "indicates that the price of the stock or asset is expected to decrease."
+    },
+    {
+      "id": 26,
+      "ticker": "TSLA",
+      "price": 1275,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 27,
+      "ticker": "AAPL",
+      "price": 1737,
+      "prediction": "bullish",
+      "_comments": "indicates that the price of the stock or asset is expected to increase."
+    },
+    {
+      "id": 28,
+      "ticker": "TSLA",
+      "price": 1787,
+      "prediction": "bullish",
+      "_comments": "indicates that the price of the stock or asset is expected to increase."
+    },
+    {
+      "id": 29,
+      "ticker": "AMZN",
+      "price": 1575,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 30,
+      "ticker": "TSLA",
+      "price": 1173,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 31,
+      "ticker": "AMZN",
+      "price": 1477,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 32,
+      "ticker": "TSLA",
+      "price": 3778,
+      "prediction": "bullish",
+      "_comments": "indicates that the price of the stock or asset is expected to increase."
+    },
+    {
+      "id": 33,
+      "ticker": "AAPL",
+      "price": 1457,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 34,
+      "ticker": "MSFT",
+      "price": 2498,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 35,
+      "ticker": "AMZN",
+      "price": 2476,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 36,
+      "ticker": "AAPL",
+      "price": 2978,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 37,
+      "ticker": "MSFT",
+      "price": 2297,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 38,
+      "ticker": "MSFT",
+      "price": 2517,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 39,
+      "ticker": "TSLA",
+      "price": 2448,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 40,
+      "ticker": "AAPL",
+      "price": 3483,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 41,
+      "ticker": "TSLA",
+      "price": 2588,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 42,
+      "ticker": "GOOG",
+      "price": 3847,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 43,
+      "ticker": "TSLA",
+      "price": 3884,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 44,
+      "ticker": "GOOG",
+      "price": 3277,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 45,
+      "ticker": "TSLA",
+      "price": 3443,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 46,
+      "ticker": "GOOG",
+      "price": 1447,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 47,
+      "ticker": "MSFT",
+      "price": 1414,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 48,
+      "ticker": "GOOG",
+      "price": 1388,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 49,
+      "ticker": "AMZN",
+      "price": 3537,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 50,
+      "ticker": "AAPL",
+      "price": 2257,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 51,
+      "ticker": "AMZN",
+      "price": 3813,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 52,
+      "ticker": "MSFT",
+      "price": 2775,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 53,
+      "ticker": "AMZN",
+      "price": 2417,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 54,
+      "ticker": "MSFT",
+      "price": 3577,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
+    },
+    {
+      "id": 55,
+      "ticker": "GOOG",
+      "price": 2477,
+      "prediction": "neutral",
+      "_comments": "indicates that the price of the stock or asset is expected to remain relatively stable without significant upward or downward movement."
     }
   ]
 }

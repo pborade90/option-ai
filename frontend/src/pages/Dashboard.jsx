@@ -13,22 +13,23 @@ const Dashboard = () => {
   return (
     <div className="container mx-auto p-8">
       <h1 className="text-3xl font-bold text-primary-dark">Dashboard</h1>
-      <table className="table-auto w-full mt-4 border-collapse">
+      <table className="table-auto w-full mt-4 border-collapse text-center">
         <thead>
           <tr className="bg-primary-light text-white">
-            <th className="border px-4 py-2">ID</th>
-            <th className="border px-4 py-2">Ticker</th>
-            <th className="border px-4 py-2">Price</th>
-            <th className="border px-4 py-2">Prediction</th>
+            <th className="border px-4 py-2 text-center">ID</th>
+            <th className="border px-4 py-2 text-center">Ticker</th>
+            <th className="border px-4 py-2 text-center">Price</th>
+            <th className="border px-4 py-2 text-center">Prediction</th>
           </tr>
         </thead>
+
         <tbody>
           {options.map((option) => (
-            <tr key={option.id} className="bg-primary-background">
-              <td className="border px-4 py-2">{option.id}</td>
-              <td className="border px-4 py-2">{option.ticker}</td>
-              <td className="border px-4 py-2">{option.price}</td>
-              <td className="border px-4 py-2">{option.prediction}</td>
+            <tr key={option.id} className="bg-primary-background text-center">
+              <td className="border px-4 py-2 text-center">{option.id}</td>
+              <td className="border px-4 py-2 text-center">{option.ticker}</td>
+              <td className="border px-4 py-2 text-center">{option.price}</td>
+              <td className="border px-4 py-2 text-center">{option.prediction}</td>
             </tr>
           ))}
         </tbody>
